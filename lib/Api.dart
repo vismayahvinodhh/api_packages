@@ -41,7 +41,7 @@ class _ApiWrk1State extends State<ApiWrk1> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Container(
-                      height: 300,
+                      height: 500,
                       width: 300,
                       child: Image.network(userdata['message']) ,
                     )
